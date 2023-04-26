@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProductCatalogue</string>
+    <string name="price_format">&#36;%s</string>
+</resources>
